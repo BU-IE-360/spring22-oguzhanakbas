@@ -1,5 +1,3 @@
 ### Welcome to Oğuzhan's GitHub Page
 
-I commit a change.
-
-Homework 01: 
+[Homework 01](file:///C:/Users/akbas/Downloads/homework_one.html)
