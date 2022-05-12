@@ -2,6 +2,8 @@
 
 [Homework 01 html](https://bu-ie-360.github.io/spring22-oguzhanakbas/homework_one.html)
 
-[Homework 1 jupyter](homework_one.ipynb)
+[Homework 01 jupyter](homework_one.ipynb)
 
 
+[Homework 02 html]()
+[Homework 02 jupyter]()
