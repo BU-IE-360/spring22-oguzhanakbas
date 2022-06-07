@@ -8,3 +8,9 @@
 [Homework 02 html](https://bu-ie-360.github.io/spring22-oguzhanakbas/homwork02.html)
 
 [Homework 02 jupyter](homwork02.ipynb)
+
+
+
+[Project Report html](https://bu-ie-360.github.io/spring22-oguzhanakbas/360_Project_Report.html)
+
+[360 Project Report jupyter](360_Project_Report.ipynb)
