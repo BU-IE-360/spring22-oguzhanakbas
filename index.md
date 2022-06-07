@@ -11,6 +11,6 @@
 
 
 
-[Project Report html](https://bu-ie-360.github.io/spring22-oguzhanakbas/360_Project_Report.html)
+[Project Report html](https://bu-ie-360.github.io/spring22-oguzhanakbas/360 Project Report (1).html)
 
-[360 Project Report jupyter](360_Project_Report.ipynb)
+[360 Project Report jupyter](360 Project Report (1).ipynb)
